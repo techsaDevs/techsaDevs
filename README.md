@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="./techsaDevs.png" alt="techsaDevs Logo" width="150" />
+  <img src="./techsaDevs.jpg" alt="techsaDevs Logo" width="150" />
 </div>
 
 ---
