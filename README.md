@@ -1,5 +1,12 @@
-<h1 style="text-align: center">🚀 techsaDevs</h1>
-<h3 style="text-align: center">We Code • We Create • We Deliver</h3>
+<div align="center">
+
+# 🚀 techsaDevs
+
+### We Code • We Create • We Deliver
+
+</div>
+
+
 
 <div align="center">
   <img src="./techsaDevs.png" alt="techsaDevs Logo" width="150" />
