@@ -1,9 +1,8 @@
-# 🚀 techsaDevs
+<h1 style="text-align: center">🚀 techsaDevs</h1>
+<h3 style="text-align: center">We Code • We Create • We Deliver</h3>
 
 <div align="center">
-  <img src="./logo-techsaDevs.png" alt="techsaDevs Logo" width="150" />
-  <h3>We Code, We Create, We Deliver</h3>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="./techsaDevs.png" alt="techsaDevs Logo" width="150" />
 </div>
 
 ---
@@ -16,45 +15,24 @@
 
 ## 👥 اعضای تیم
 
-### 🎨 Frontend Dev #1  
-<div>
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" align="right"/>
-</div>
-
-- متخصص React.js و Next.js  
-- طراحی UI/UX و تبدیل طرح به کد  
-- تسلط بر HTML5, CSS3, JavaScript, TypeScript  
-- کار با Tailwind, Bootstrap, Shadcn, Framer Motion  
-
----
-
-### 💻 Frontend Dev #2  
-<div>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" align="right"/>
-</div>
-
-- کدنویسی تمیز و پیکسل‌پرفکت  
-- React.js, Next.js, Tailwind, Material UI  
-- تجربه کار با کتابخانه‌های متنوع و ابزارهای مدرن  
-
----
-
-### ⚙ Backend Dev  
-<div>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" align="right"/>
-</div>
-
-- ۲ سال تجربه Python  
-- در حال یادگیری JavaScript و Django  
-- آشنایی با SQLite, MySQL, MongoDB  
-- توسعه سریع بک‌اند و API  
+| عکس | توضیحات |
+|------|---------|
+| <img src="./type.gif" width="100"/>  | **🎨 Frontend Dev #1**<br>- متخصص React.js و Next.js<br>- طراحی UI/UX و تبدیل طرح به کد<br>- HTML5, CSS3, JavaScript, TypeScript<br>- Tailwind, Bootstrap, Shadcn, Framer Motion |
+| <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/> | **💻 Frontend Dev #2**<br>- کدنویسی تمیز و پیکسل‌پرفکت<br>- React.js, Next.js, Tailwind, Material UI<br>- تجربه کار با کتابخانه‌ها و ابزارهای مدرن |
+| <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100"/> | **⚙ Backend Dev**<br>- ۲ سال تجربه Python<br>- در حال یادگیری JavaScript و Django<br>- SQLite, MySQL, MongoDB<br>- توسعه سریع بک‌اند و API |
 
 ---
 
 ## 🛠 مهارت‌ها و تکنولوژی‌ها
-| Frontend | Backend | Tools |
-|----------|---------|-------|
-| HTML5, CSS3, JS, TS, React, Next.js, Tailwind, Bootstrap, Shadcn, Framer Motion | Python, Django *(learning)*, SQLite, MySQL, MongoDB, REST API | Git/GitHub, Photoshop, Project Management Tools |
+
+**Frontend**  
+`HTML5` • `CSS3` • `JavaScript` • `TypeScript` • `React.js` • `Next.js` • `Tailwind CSS` • `Bootstrap` • `Material UI` • `Shadcn` • `Framer Motion` • `Zustand` • `Axios`
+
+**Backend**  
+`Python` • `Django` *(در حال یادگیری)* • `SQLite` • `MySQL` • `MongoDB` • `REST API`
+
+**ابزارها**  
+`Git & GitHub` • `Adobe Photoshop` • ابزارهای مدیریت پروژه
 
 ---
 
@@ -80,7 +58,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" />
   <br/>
   <sub>❤️ Built with passion by the techsaDevs Team</sub>
 </div>
