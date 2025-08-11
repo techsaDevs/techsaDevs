@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="./techsaDevs.jpg" alt="techsaDevs Logo" width="150" />
+  <img src="./techsaDevs.jpg" alt="techsaDevs Logo" width="50%" />
 </div>
 
 ---
@@ -57,7 +57,11 @@
 ---
 
 ## 📌 اطلاعات تماس اعضا
-
+**Rezza**  
+📷 [my_telegram](@reezaaaz)  
+**Mohammad iKO**  
+📧 developer.iko.mike@gmail.com
+📷 [my_telegram](@DevMiko)  
 **Amir Quf**  
 📧 amirquf.com@gmail.com  
 📷 [amir_q.p](https://instagram.com/amir_q.p)  
